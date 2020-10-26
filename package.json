@@ -1,0 +1,23 @@
+{
+  "name": "mini-project-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Alejandro Alvarez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.3.0",
+    "mongoose": "^5.10.10",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.16.2"
+  }
+}
